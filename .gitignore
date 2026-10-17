@@ -1,0 +1,11 @@
+# Runtime artifacts produced by the tool
+repair.log
+*.log
+state.json
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
